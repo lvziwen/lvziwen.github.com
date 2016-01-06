@@ -14,6 +14,8 @@
 .nav a{
     text-decoration: none;
     color: antiquewhite;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 .nav a:hover{
     color: aquamarine;
@@ -23,4 +25,8 @@
 }
 .container{
     border: solid red 5px;
+}
+
+#nav_first{
+    margin-left: 100px;
 }
